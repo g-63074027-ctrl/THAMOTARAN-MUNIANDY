@@ -1,0 +1,5 @@
+{
+  "name": "Sistem SEGAK SMK Sungai Karangan",
+  "description": "Aplikasi pengurusan data Standard Kecergasan Fizikal Kebangsaan (SEGAK) untuk SMK Sungai Karangan yang membolehkan pendaftaran murid, kemasukan data ujian Fasa 1 & 2, serta penjanaan laporan kecergasan.",
+  "requestFramePermissions": []
+}
